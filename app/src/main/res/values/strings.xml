@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mecha</string>
+    <string name="qr_label">Scan QR to connect MechaDesk</string>
+</resources>
