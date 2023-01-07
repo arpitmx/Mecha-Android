@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.button.setOnClickListener{
-            startActivity(Intent(this,MechaSelector::class.java))
+            startActivity(Intent(this,QRScannerActivity::class.java))
         }
 
 
